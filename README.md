@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a passionate and dedicated full-stack developer, I am driven by my love for coding and the desire to create innovative solutions.<br>Currently, I am deeply involved in the XO Caliber Web app project, where I am honing my skills and contributing to the development of cutting-edge features.<br>Looking to expand my horizons and collaborate with like-minded professionals, I am eager to explore freelancing opportunities where I can leverage my expertise and creativity to deliver high-quality solutions.
+As a passionate and dedicated full-stack developer, I am driven by my love for coding and the desire to create innovative solutions.<br>Currently, I am deeply involved in the XO Caliber Web app project, where I am honing my skills and contributing to the development of cutting-edge features.<br>Looking to expand my horizons and collaborate with like-minded professionals, I am eager to explore fulltime opportunities where I can leverage my expertise and creativity to deliver high-quality solutions.
 
 
 ## 🌐 Socials:
